@@ -6,6 +6,12 @@ The image caption generator can be used to generate captions for new images.
 
 An image caption generator is a machine learning model that can generate captions for images. It works by first extracting features from the image using a pre-trained model, such as InceptionV3. Then, it uses a recurrent neural network (RNN) to generate a sequence of words that describes the image.
 
+To install all the necessary packages, you can run the following command: 
+
+`pip install -r requirements.txt` 
+
+This will install all the required packages in your Python environment.
+
 ## Steps involved
 
 1. Load the image-caption mappings. This is a set of data that contains pairs of images and captions.
