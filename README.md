@@ -10,7 +10,7 @@ To install all the necessary packages, you can run the following command:
 
 `pip install -r requirements.txt` 
 
-This will install all the required packages in your Python environment.
+This will install all the required packages in your Python environment.\
 Download and extract all the files of Flickr 8k dataset into Flickr directory.
 
 ## Steps involved
